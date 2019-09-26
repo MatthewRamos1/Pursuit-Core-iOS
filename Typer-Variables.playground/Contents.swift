@@ -46,3 +46,5 @@ print(salary)
 //salary *= 2
 //print(salary)
 
+let pi = 3.14
+
