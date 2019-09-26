@@ -1,3 +1,7 @@
-##  Unit 1 Archive
+# Pursuit Projects
 
-More to come
+# Unit 1
+
+1. Types, Variables and Logic
+1. Control Flow
+1. Loops
